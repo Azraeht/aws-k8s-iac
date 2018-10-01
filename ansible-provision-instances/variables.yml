@@ -1,0 +1,11 @@
+STATE_RES_NAME: "State Res Name"
+ec2_region: "eu-west-1"
+ec2_instance_type: "t2.micro"
+ec2_image: "ami-00035f41c82244dab"
+ec2_keypair: "AWSKey"
+ec2_volume_size: 8
+ec2_count: 1
+ec2_security_group_id: "sg-0e53b677"
+ec2_subnet_id: "subnet-6b41550f"
+ec2_tag_Type: "my_awesome_type"
+ec2_tag_Role: "my_awesome_role"
