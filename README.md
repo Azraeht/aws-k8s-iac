@@ -23,7 +23,7 @@ pip install awscli
 
 ```bash
 ~/workspace/k8s-aws/ansible master*
-❯ export AWS_ACCESS_KEY_ID='AKIAIQAV5WYG2M432WMQ'
+❯ export AWS_ACCESS_KEY_ID='********************************'
 
 ~/workspace/k8s-aws/ansible master*
 ❯ export AWS_SECRET_ACCESS_KEY='**************************************'
@@ -33,10 +33,10 @@ pip install awscli
 ~/workspace/k8s-aws/terraform master*
 ❯ cat ~/.aws/credentials  
 [default]
-aws_access_key_id = AKIAIQAV5WYG2M432WMQ
+aws_access_key_id = **************************************
 aws_secret_access_key = **************************************
 [terraform]
-aws_access_key_id = AKIAIW3JS7IMR52CG34Q
+aws_access_key_id = **************************************
 aws_secret_access_key = **************************************
 ```
 
