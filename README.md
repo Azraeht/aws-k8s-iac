@@ -38,8 +38,9 @@ aws_secret_access_key = **************************************
 [terraform]
 aws_access_key_id = AKIAIW3JS7IMR52CG34Q
 aws_secret_access_key = **************************************
-
 ```
+
+* Replace all references of `/home/bsantus/.aws` to your path
 
 ### Terraform the host
 
